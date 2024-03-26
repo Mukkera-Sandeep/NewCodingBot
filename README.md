@@ -5,3 +5,4 @@
 [lab4](https://github.com/Mukkera-Sandeep/sandeep/blob/main/Untitled4.ipynb)
 [lab2](https://github.com/Mukkera-Sandeep/sandeep/blob/main/Assignment2.ipynb)
 [lab5](https://github.com/Mukkera-Sandeep/sandeep/blob/main/Assignment5.ipynb)
+[lab06](https://github.com/Mukkera-Sandeep/sandeep/blob/main/assignment06.ipynb)
